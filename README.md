@@ -37,7 +37,7 @@ Welcome to my GitHub! I’m a Senior QA Engineer with nearly a decade of experie
 
 - **ISTQB Certified Tester Foundation Level (CTFL)** Certificate No: 00364923
 - **ISTQB Certified Tester Foundation Level – Agile Tester (CTFL-AT)** Certificate No: 18-CTFL-AT147273-06
-- **ISTQB Certified Tester Foundation Level – Agile Tester (CTAL-TA)**
+- **ISTQB Certified Tester Advanved Level – Test Analyst (CTAL-TA)**
 
 ---
 
