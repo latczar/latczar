@@ -1,66 +1,79 @@
 # Hi, I'm Lat 👋
 
-Senior QA Lead Engineer with 9.5+ years of experience in test automation, quality engineering, and framework design across UI, API, and CI/CD environments.
+### AI Automation Engineer | Senior QA Automation Lead | Agentic Systems
 
-My core background is in building and maintaining scalable automation frameworks using Playwright, TypeScript, Selenium, Java, Python, and API testing tools.
+Engineer with **9.5+ years of experience** across automation, APIs, integrations, CI/CD, framework architecture, and quality engineering.
 
-More recently, I’ve been expanding into AI automation and agentic systems, focusing on how LLMs, MCP, workflow orchestration, retrieval, and automated validation can be integrated into real engineering workflows.
+Alongside my QA and automation background, I’ve developed and released **AI-powered systems used in real internal workflows**, including AI-assisted support, internal knowledge retrieval, and workflow automation.
 
-I’m particularly interested in building systems where AI is not just used for prompting, but is surrounded by proper context management, deterministic validation, failure handling, and human review.
+My current work focuses on **Python, TypeScript, LLMs, MCP, n8n, RAG, FastAPI, Pydantic, PostgreSQL / pgvector, APIs, and human-in-the-loop automation**.
 
-- Open to collaboration on QA automation, AI automation, and agentic workflow projects
-- Interested in practical AI systems that solve real business and engineering problems
-- Happy to contribute testing and automation skills to non-profits and purpose-driven initiatives
-- Currently building public proof-of-work projects around AI-assisted QA, MCP, n8n, local LLMs, Python, and RAG
+I’m particularly interested in AI systems where the model is only one part of the solution. Context, validation, failure handling, business rules, feedback, and human review matter just as much as the model itself.
 
-You can connect with me through:
+Most of my production AI work is covered by client NDAs, so where possible I build **sanitized demo, mock, shell, or replica versions** to demonstrate the architecture and technical approach publicly.
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lat-caesar-ctfl-at-33133ba6/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.latczar@gmail.com)
 
 ---
 
-## What I'm Currently Building
+## Featured AI Work
 
-### AI-Assisted QA Automation
+### 🤖 AI-Assisted Service Desk
 
-I’m currently working on an AI-assisted Playwright test-generation workflow designed to turn manual test cases into maintainable automated tests.
+AI-assisted support workflow designed to help internal agents process requests faster while keeping humans in control of important decisions.
 
-The system is being designed around:
+- Ticket triage and classification
+- Context and knowledge retrieval
+- Suggested resolutions
+- Confidence-based escalation
+- Human review
+- Feedback and audit flows
+- API and workflow integrations
 
-- MCP-based tool and framework access
-- Context-aware Playwright test generation
-- Existing Page Object and fixture reuse
-- Automated compile and static validation
-- Playwright execution as a verification layer
-- Human-in-the-loop review
-- Workflow orchestration using n8n
-- Local LLM experimentation using Ollama
+---
+
+### 🧠 Internal Knowledge & Retrieval System
+
+Internal LLM-powered knowledge system for retrieving technical documentation, product knowledge, and domain-specific information.
+
+- RAG and grounded responses
+- FastAPI
+- PostgreSQL / pgvector
+- Document chunking and embeddings
+- Metadata filtering
+- Hybrid retrieval
+- Source-backed answers
+- Safe fallback when context is weak
+
+---
+
+### ⚙️ AI Automation Architect
+
+Python-based system that converts plain-English business processes into structured and validated automation workflows.
+
+- Structured LLM outputs
+- Pydantic validation
+- Business-rule enforcement
+- Human approval points
+- Retry and correction handling
 - Model-agnostic architecture
+- Workflow definitions that can integrate with platforms such as n8n
 
-The goal is to make AI-generated automation reliable enough to work within an existing engineering framework rather than simply generating isolated code snippets.
-
-### AI Automation & Agentic Systems
-
-I’m also actively learning and building around:
-
-- Agentic workflows
-- Model Context Protocol (MCP)
-- LLM tool calling
-- Context management
-- Structured model outputs
-- Python-based AI services and APIs
-- RAG and semantic retrieval
-- Embeddings and vector databases
-- AI evaluation
-- Fallback and retry mechanisms
-- Human approval workflows
-- AI output validation
-- Local-first AI infrastructure
+> **The AI interprets the process. The application enforces the rules.**
 
 ---
 
 ## Technologies & Tools
+
+### AI Automation
+
+![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge)
+![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+Python • FastAPI • Pydantic • MCP • Ollama • RAG • PostgreSQL / pgvector • REST APIs • Webhooks
 
 ### QA & Test Automation
 
@@ -70,24 +83,6 @@ I’m also actively learning and building around:
 ![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 ![TestNG](https://img.shields.io/badge/-TestNG-FF6C37?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-### AI Automation
-
-![Claude](https://img.shields.io/badge/-Claude-D97757?style=for-the-badge)
-![n8n](https://img.shields.io/badge/-n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-Currently building with:
-
-- Claude Code
-- MCP
-- Ollama
-- Local LLMs
-- Python
-- PostgreSQL / pgvector
-- RAG pipelines
-- Agent orchestration
 
 ### Programming & Backend
 
@@ -112,7 +107,26 @@ Currently building with:
 
 ---
 
-## QA / Testing Certifications
+## QA & Engineering Background
+
+My QA background still plays a major role in how I build AI systems, especially around **validation, failure analysis, edge cases, testability, and production reliability**.
+
+Over 9.5+ years, my work has included:
+
+- Automation framework architecture
+- UI and API automation
+- CI/CD integration
+- Regression and UAT
+- Release validation
+- API and backend testing
+- Failure analysis and test reliability
+- Automation strategy
+- Mentoring QA engineers
+- Manual-to-automation transitions
+
+---
+
+## Certifications
 
 - **ISTQB Certified Tester Foundation Level (CTFL)**  
   Certificate No: 00364923
@@ -124,47 +138,25 @@ Currently building with:
 
 ---
 
-## What I Do
-
-- Design and maintain scalable automation frameworks for UI and API testing
-- Build reusable Page Objects, fixtures, utilities, and framework components
-- Lead automation strategy and framework architecture
-- Integrate automated testing into CI/CD pipelines
-- Build API integrations and backend validation
-- Perform failure analysis and improve test reliability
-- Manage automation coverage across different environments and tenants
-- Mentor QA engineers and support manual-to-automation transitions
-- Define test strategies aligned with business and product requirements
-- Improve test execution efficiency and reduce flaky or unreliable automation
-- Experiment with AI-assisted test generation and agentic QA workflows
-- Build Python-based automation and AI integration components
-- Apply deterministic validation around AI-generated outputs
-
----
-
-## Current Areas of Focus
+## Current Focus
 
 ```text
-QA Automation
-      +
 AI Automation
-      +
-Python
-      +
-Agentic Workflows
-      +
+    +
+Python / FastAPI
+    +
+n8n
+    +
 MCP
-      +
+    +
 RAG / Retrieval
-      +
-Evaluation
-      +
+    +
+Human-in-the-Loop
+    +
+QA Engineering
+    +
 Production Reliability
 ```
-My long-term goal is to combine my background in quality engineering with AI automation to build systems that are not only intelligent, but also testable, reliable, observable, and safe to use in real workflows.
 
-```text
-Continuous learning has always been a big part of how I approach engineering. I try to improve consistently, whether that means strengthening my testing expertise, improving automation architecture, or learning how emerging technologies such as AI agents can solve real-world problems.
+I’m interested in building practical AI systems that reduce repetitive work, integrate with real business processes, and remain testable, reliable, and maintainable once they leave the demo stage.
 ```
-
-## Thank you for visiting my profile!
