@@ -17,6 +17,18 @@ Most of my production work is under client NDA. These are public rebuilds of the
 
 ---
 
+#### Trade Reorder Portal
+
+[Live demo](https://latczar.github.io/trade-reorder-portal/) · [Source](https://github.com/latczar/trade-reorder-portal)
+
+<img src="https://github.com/latczar/trade-reorder-portal/raw/main/docs/screenshots/01-order.jpg" width="49%"> <img src="https://github.com/latczar/trade-reorder-portal/raw/main/docs/screenshots/02-email-intake.jpg" width="49%">
+
+A B2B ordering portal for a wholesale distributor. Customers reorder in a few clicks with their own contract prices, live stock, delivery cut-offs and credit checks. Orders that still arrive by email are read by Claude, checked against the catalogue and stock by plain code, and approved by a person instead of being keyed in by hand. Orders sync to a mock ERP with retries, and an insight page tracks the share of orders placed online against a 90% target.
+
+JavaScript, Node, Claude API, structured outputs, unit tests
+
+---
+
 #### Doctor Outreach
 
 [Live demo](https://doctor-outreach.vercel.app/) · [Source](https://github.com/latczar/doctor-outreach-demo)
