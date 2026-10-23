@@ -78,7 +78,7 @@ Picks up test cases marked ready, generates Playwright tests, and only accepts o
 
 ## Web platforms & e-commerce
 
-I'm comfortable picking up an existing production codebase, whatever it's built on, and making it secure, stable and easy to release. I'm currently expanding into **Social Stack** and similar commerce and CMS platforms, building on what I already use day to day:
+I'm comfortable picking up an existing production codebase, whatever it's built on, and making it secure, stable and easy to release. I'm currently expanding into e-commerce, online ordering and CMS platforms, building on what I already use day to day:
 
 - **Full-stack web:** React front ends, Python/FastAPI and Node back ends, REST APIs, webhooks, deployments on Vercel and Docker
 - **Ordering & sales workflows:** test automation for sales platforms ([SalesTestAutomation](https://github.com/latczar/SalesTestAutomation)), and customer journeys checked end to end with Playwright and Selenium
