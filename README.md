@@ -41,18 +41,6 @@ Python, FastAPI, SQLite, Vercel
 
 ---
 
-#### Automation Architect
-
-[Live demo](https://ai-auto-architect.vercel.app) · [Source](https://github.com/latczar/automation-architect)
-
-<img src="https://github.com/latczar/automation-architect/raw/main/docs/screenshots/02-map.png" width="49%"> <img src="https://github.com/latczar/automation-architect/raw/main/docs/screenshots/03-connections.png" width="49%">
-
-Takes a manual business process described in plain English and returns a validated process map, a view of which steps can safely run unattended, and an importable n8n workflow. Steps that move money or cannot be undone are never marked safe, and an evaluation suite checks that this holds.
-
-Python, FastAPI, React, Pydantic, n8n
-
----
-
 #### AI Service Desk
 
 [Source](https://github.com/latczar/agentic-qa-sd)
